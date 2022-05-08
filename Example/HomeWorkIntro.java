@@ -11,15 +11,6 @@ public class HomeWorkIntro {
 		float area = (float) (2*3.14*radius);
 		System.out.println("Perimetr of Flower bad is " + perim );
 		System.out.println("Area of Flower bad is " + area );
-	// adressbook
-		System.out.println("What's Your name? ");
-	
-	
-	
-	
-	
-	
-	
 	}
 }
 
